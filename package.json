@@ -1,20 +1,16 @@
 {
-    "name": "@airtable/print-records-app",
-    "version": "2.0.5",
-    "description": "A printable layout of artists and their artworks, grouped by collection",
-    "author": "",
-    "license": "MIT",
     "scripts": {
         "lint": "eslint frontend"
     },
     "dependencies": {
-        "@airtable/blocks": "latest",
-        "react": "^16.9.0",
-        "react-dom": "^16.9.0"
+        "@airtable/blocks": "1.8.0",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0",
+        "styled-components": "^6.1.11"
     },
     "devDependencies": {
-        "eslint": "^6.3.0",
-        "eslint-plugin-react": "^7.14.3",
-        "eslint-plugin-react-hooks": "^2.0.1"
+        "eslint": "^6.8.0",
+        "eslint-plugin-react": "^7.18.3",
+        "eslint-plugin-react-hooks": "^2.5.0"
     }
 }

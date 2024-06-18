@@ -11,3 +11,4 @@ export default function printWithoutElementsWithClass(className) {
     window.print();
     printStyles.remove();
 }
+
